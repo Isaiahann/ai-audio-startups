@@ -55,7 +55,6 @@ Community list of startups working with AI for audio and music tech
 - [Setmixer](https://www.setmixer.com/) -  Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
 - [okio](https://okio.ai/) - Open source generative tools for music
 - [Audialab](https://audialab.com/) - Ethical audio AI plugins, tools, and community designed to empower real artists with AI, not displace them.
-- [Thematic](https://hellothematic.com/about-thematic/) - An a driven collaborative platform where creators can license royalty free music from their favorite music artists in exchange for promotion.
 ## Source separation
 
 - [TuneFlow](https://tuneflow.com/) - A free DAW that offers high quality vocal, drums, melody, bass stem separation, all-in-one audio separation, editing and vocal/instrument to MIDI transcription.
@@ -85,7 +84,8 @@ Community list of startups working with AI for audio and music tech
 - [hoopr](https://www.hoopr.ai) - Find the best music, tell better stories, grow your audience. AI-powered engine that helps find the right soundtrack.
 - [Pex](https://www.pex.com) - Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale.
 - [SONOTELLER](https://sonoteller.ai) - AI music analysis including song lyrics summarization, themes extraction and musical features.
-
+- [Thematic](https://hellothematic.com/about-thematic/) - An a driven collaborative platform where creators can license royalty free music from their favorite music artists in exchange for promotion.
+  
 ## Health & Wellbeing 
 
 - [Endel](https://endel.io) - Personalized soundscapes to help you focus, relax, and sleep.
